@@ -5,7 +5,7 @@ import "fmt"
 // scanf การรับค่าจากคีย์บอร์ด
 func main() {
 	var name string
-	var score int
+
 	fmt.Println("ป้อนชื่อนักเรียน = ")
 	fmt.Scanf("%s", &name)
 
